@@ -1,7 +1,6 @@
 # Two-year-churn-predictive-model
-
-## Case
-Kin Securityis asecurity service company that offers a variety of products to their clients. In specific, their star product, “Kin Safety”, hasbeen in the market since 2012 and has been a total success in the European Market. For this product, a client mustsign a contract,pay the installation costs and a monthly fee for the service. However, in recent years, Kin Securityhasseen that a lot of its clients have canceled “Kin Safety” before two years.The biggest problem with this phenomenon is that “Kin Safety” has a significant fixed cost. 80% of this cost is assumed by the Kin Security in order to be abletomatch the prices of its competition. Therefore, if a client leaves before two years, the company is not able to recover their investment.Thus, Kin Security hascontacted you to helpthem develop a classification model that allowsthem to predict if a client will stay less than two years with the product. With this model,they plan to construct commercial campaigns that benefit those clients that will stay more thantwo years and penalize the ones who will not. Kin Security has recently bought information from a credit bureau because they think that this information will be valuable to build the classification model. Specifically, they asked for each client’s credit score 6 months before and 6 months after he/she purchased “Kin Safety”. Additionally, Kin Security askedthe client for all the transactions in their bank account. For this project,we will assume that each client has only one bank account.Also, most of the clients that apply for “Kin Safety” usually have another product from Kin Security.
-
 ## Objective:
 Develop a two-year churn predictive model.
+
+### Description
+You can find the soruce code in the Kin_Security_Predictor notebook, and the slides with the results of the project in the Consultant_Hackathon_AltScore pdf file. If you want to run the code yourself, you may create a python venv and install the libraries listed at requirements.txt
